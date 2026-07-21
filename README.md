@@ -1,6 +1,4 @@
 # 📊 Customer Churn Analysis
-End-to-end Customer Churn Analysis using Python, SQL, and Power BI.
-
 
 An end-to-end Customer Churn Analysis project that identifies the factors influencing customer churn using **Python, SQL, and Power BI**. The project includes data cleaning, exploratory data analysis, SQL analysis, and an interactive Power BI dashboard for business insights.
 
@@ -55,19 +53,19 @@ Dataset includes:
 
 ## Dashboard Overview
 
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
-## Customer Details Page
+## Customer Details (Drillthrough)
 
-![Customer Details](Images/customer_details_page.png)
+![Customer Details](Images/Drillthrough.png)
 
 ---
 
 ## Tooltip Analysis
 
-![Tooltip](Images/tooltip_analysis.png)
+![Tooltip](Images/Tooltip.png)
 
 ---
 
@@ -99,13 +97,13 @@ Dataset includes:
 
 ## Monthly Charges by Churn
 
-![Monthly Charges](Images/monthly_charges_by_churn.png)
+![Monthly Charges by Churn](Images/monthly_charges_by_churn.png)
 
 ---
 
 ## Tenure by Churn
 
-![Tenure](Images/tenure_by_churn.png)
+![Tenure by Churn](Images/tenure_by_churn.png)
 
 ---
 
@@ -133,29 +131,24 @@ Dataset includes:
 
 # 📁 Project Structure
 
+
 ```text
 customer-churn-analysis/
 │
-├── Dashboard/
-│   └── customer_churn_dashboard.pbix
-│
-├── Dataset/
-│   └── churn.csv
-│
-├── Python/
-│   └── customer_churn_analysis.ipynb
-│
 ├── Images/
-│   ├── dashboard_overview.png
-│   ├── customer_details_page.png
-│   ├── tooltip_analysis.png
+│   ├── Dashboard.png
+│   ├── Drillthrough.png
+│   ├── Tooltip.png
 │   ├── churn_distribution.png
 │   ├── contract_type_vs_churn.png
 │   ├── internet_service_vs_churn.png
-│   ├── payment_method_vs_churn.png
 │   ├── monthly_charges_by_churn.png
+│   ├── payment_method_vs_churn.png
 │   └── tenure_by_churn.png
 │
+├── churn.csv
+├── customer_churn_analysis.ipynb
+├── customer_churn_dashboard.pbix
 └── README.md
 ```
 
@@ -165,11 +158,11 @@ customer-churn-analysis/
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Data Visualization
 - SQL Querying
-- Dashboard Design
+- Data Visualization
+- Power BI Dashboard Development
 - KPI Development
-- Business Insights
+- Business Intelligence
 - Data Storytelling
 
 ---
@@ -178,4 +171,6 @@ customer-churn-analysis/
 
 **Gummidi Swetha**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
+**Aspiring Data Analyst | Python | SQL | Power BI | Excel**
+
+ Excel
